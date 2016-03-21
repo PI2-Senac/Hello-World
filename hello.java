@@ -1,3 +1,13 @@
+// Data: 21/03/2016
+// Descrição: Arquivo de início ao repositório no GitHub, este faz referência a Entraga 01 do PI
+//
+// Alunos:
+//
+//    victoralgusto5@hotmail.com
+//    arthur.ahc@outlook.com
+//
+/*-----------------------------------------------------------------------------------------------*/
+
 package default;
 
 class HelloWorld {
